@@ -1,4 +1,4 @@
-package array_30;
+
 
 public class max_min {
 	

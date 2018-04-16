@@ -1,4 +1,4 @@
-package array_30;
+
 import java.util.*;
 public class missing {
 	
