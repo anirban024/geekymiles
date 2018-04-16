@@ -1,5 +1,6 @@
 
 	public class Node{
+		public static final char[] key = null;
 		int data;
 		Node left,right;
 		
