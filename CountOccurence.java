@@ -27,11 +27,11 @@ public class CountOccurence {
 		int CountSearch(int search) {
 			
 			int count = 0;
-			
-			while(head!=null) {
+			Node Current = head;
+			while(Current!=null) {
 				if (head.data == search) {
 					count++;
-					head = head.next;
+					Current = Current.next;
 					
 				}
 				
